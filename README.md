@@ -30,6 +30,7 @@
 
 
 📁 Evidencias
+ [Evidencia 1 - CURSO LOGICA DE PROGRAMACION] (74b1bed9-d87f-4bc0-8275-0f181462d816_certificado.pdf)
   
 
 📫 Contacto
