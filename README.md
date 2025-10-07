@@ -7,26 +7,28 @@
 
   ##🎓 Formación Académica 
   - 🎯Técnico en Programación - CETAC 10
-     📅 2019 – 2022
+     -📅 2019 – 2022
     
   -  📘 Curso de Introducción a la Programación - CAPACÍTATE PARA EL EMPLEO
-      📅 19 MAYO 2020 - 10 Junio 2020
+      -📅 19 MAYO 2020 - 10 Junio 2020
       
   - 🧩 Curso de Lógica de Programación - CAPACÍTATE PARA EL EMPLEO
-      📅 03 Junio 2020 - 10 junio 2020
+      -📅 03 Junio 2020 - 10 junio 2020
 
-  - 💻 Ingeniería en Sistemas Computacionales — Instituto Tecnológico de León
-     📅 2022 – En curso
+  - 💻 Ingeniería en Sistemas Computacionales — INSTITUTO TECNOLOGICO DE LEON
+     -📅 2022 – En curso
 
   ##🧠 Habilidades
-    💬 Habilidades Blandas  
+  ## 💬 Habilidades Blandas  
   - 🤝 Trabajo en equipo
   - 💡 Resolución de problemas
   - ⚙️ Adaptabilidad
 
-  ##💻 Habilidades Técnicas
-  -🧰 Manejo de herramientas digitales (nivel básico en Excel y Word)
-  -👩‍💻 Programación básica (Java, JavaScript y HTML)
+  ##💻 Habilidades Técnicas  
+  - 🧰 Manejo de herramientas digitales (nivel básico en Excel y Word)
+  - 👩‍💻 Programación básica (Java, JavaScript y HTML)
+
+    
 
 
 ##📁 Evidencias
