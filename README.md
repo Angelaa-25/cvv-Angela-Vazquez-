@@ -5,7 +5,7 @@
   Bienvenida(o) a mi Currículum Vitae Virtual (CVV).
   Aquí encontrarás información sobre mi formación académica, habilidades y cursos.
 
-  ##🎓 Formación Académica 
+  ###🎓 Formación Académica 
   - 🎯Técnico en Programación - CETAC 10
      -📅 2019 – 2022
     
