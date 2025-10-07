@@ -30,8 +30,8 @@
 
 
 📁 Evidencias
- [Evidencia 1 - CURSO LOGICA DE PROGRAMACION] (https://github.com/Angelaa-25/cvv-Angela-Vazquez-/blob/main/74b1bed9-d87f-4bc0-8275-0f181462d816_certificado.pdf)
-  
+## [Evidencia 1 - CURSO LOGICA DE PROGRAMACION] (https://github.com/Angelaa-25/cvv-Angela-Vazquez-/blob/main/74b1bed9-d87f-4bc0-8275-0f181462d816_certificado.pdf)
+## [Evidencia 2 - CURSO DE INTRODUCCION A LA PROGRAMACION] (https://github.com/Angelaa-25/cvv-Angela-Vazquez-/blob/main/7475d5df-451d-49d8-bcb2-e096d1ecb2d0_certificado.pdf)
 
 📫 Contacto
    📧 Correo: ximenavazquezg7@gmail.com
