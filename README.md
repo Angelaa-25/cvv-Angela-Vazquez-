@@ -37,7 +37,7 @@
 
 ## 📫 Contacto
   - 📧 Correo: ximenavazquezg7@gmail.com
-  - 💻 GitHub: Agrega tu enlace aquí
+  - 💻 GitHub: https://github.com/Angelaa-25
 
 ## 🕓 Última actualización: 06 Octubre 2025
     
