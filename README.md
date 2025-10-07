@@ -18,17 +18,15 @@
   - 💻 Ingeniería en Sistemas Computacionales — Instituto Tecnológico de León
      📅 2022 – En curso
 
+  ##🧠 Habilidades
+    💬 Habilidades Blandas  
+  - 🤝 Trabajo en equipo
+  - 💡 Resolución de problemas
+  - ⚙️ Adaptabilidad
 
-
-##🧠 Habilidades
-  💬 Habilidades Blandas
-   -🤝 Trabajo en equipo
-   -💡 Resolución de problemas
-   -⚙️ Adaptabilidad
-
-##💻 Habilidades Técnicas
-   -🧰 Manejo de herramientas digitales (nivel básico en Excel y Word)
-   -👩‍💻 Programación básica (Java, JavaScript y HTML)
+  ##💻 Habilidades Técnicas
+  -🧰 Manejo de herramientas digitales (nivel básico en Excel y Word)
+  -👩‍💻 Programación básica (Java, JavaScript y HTML)
 
 
 ##📁 Evidencias
