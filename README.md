@@ -7,7 +7,7 @@
 
   ## 🎓 Formación Académica 
   - 🎯Técnico en Programación - CETAC 10
-     -📅 2019 – 2022
+     -📅 2019 – 2022 
     
   -  📘 Curso de Introducción a la Programación - CAPACÍTATE PARA EL EMPLEO
       -📅 19 MAYO 2020 - 10 Junio 2020
